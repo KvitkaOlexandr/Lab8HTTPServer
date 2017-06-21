@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/projects/progbase2/labs/lab8/include/languages.h
+iostream
+-
+sstream
+-
+vector
+-
+iterator
+-
+languages.h
+/home/student/projects/progbase2/labs/lab8/include/languages.h
+
+/home/student/projects/progbase2/labs/lab8/include/server.h
+iterator
+-
+iostream
+-
+sstream
+-
+vector
+-
+languages.h
+/home/student/projects/progbase2/labs/lab8/include/languages.h
+
+/home/student/projects/progbase2/labs/lab8/src/server.cpp
+../include/server.h
+/home/student/projects/progbase2/labs/lab8/include/server.h
+cstring
+-
+time.h
+-
+jansson.h
+-
+

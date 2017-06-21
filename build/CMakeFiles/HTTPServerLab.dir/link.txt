@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g    CMakeFiles/HTTPServerLab.dir/main.cpp.o CMakeFiles/HTTPServerLab.dir/src/server.cpp.o CMakeFiles/HTTPServerLab.dir/src/languages.cpp.o  -o HTTPServerLab -rdynamic -ljansson -lprogbase-cpp -lprogbase 

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/student/projects/progbase2/labs/lab8/build",
+  "command": "/usr/bin/c++     -std=c++11 -g   -o CMakeFiles/HTTPServerLab.dir/main.cpp.o -c /home/student/projects/progbase2/labs/lab8/main.cpp",
+  "file": "/home/student/projects/progbase2/labs/lab8/main.cpp"
+},
+{
+  "directory": "/home/student/projects/progbase2/labs/lab8/build",
+  "command": "/usr/bin/c++     -std=c++11 -g   -o CMakeFiles/HTTPServerLab.dir/src/server.cpp.o -c /home/student/projects/progbase2/labs/lab8/src/server.cpp",
+  "file": "/home/student/projects/progbase2/labs/lab8/src/server.cpp"
+},
+{
+  "directory": "/home/student/projects/progbase2/labs/lab8/build",
+  "command": "/usr/bin/c++     -std=c++11 -g   -o CMakeFiles/HTTPServerLab.dir/src/languages.cpp.o -c /home/student/projects/progbase2/labs/lab8/src/languages.cpp",
+  "file": "/home/student/projects/progbase2/labs/lab8/src/languages.cpp"
+}
+]
